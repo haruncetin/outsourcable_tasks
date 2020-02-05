@@ -2,7 +2,7 @@ import random as r
 
 ### Implementation ###
 """
-Solution of the problem implemented as two different version. But used the first version which is iterative one.
+Solution of the problem implemented as two different version, but used the first version which is iterative one.
 """
 def shared_tasks(P, Q):
     R = []
