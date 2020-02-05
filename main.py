@@ -1,7 +1,9 @@
 import random as r
 
 ### Implementation ###
-
+"""
+Solution of the problem implemented as two different version. But used the first version which is iterative one.
+"""
 def shared_tasks(P, Q):
     R = []
     for task_P in P:                                # Iterate over all tasks in P bag
